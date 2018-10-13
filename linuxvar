@@ -1,0 +1,8 @@
+echo $SHELL
+env $PID 
+echo $$
+whatis echo
+man echo
+echo -n
+nome = "Thabata Alves Oliveira"
+export nome
